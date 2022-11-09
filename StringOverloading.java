@@ -1,5 +1,5 @@
 import java.io.*;
-class StringOverloading
+class StringOrdering
 {
 	public static void main(String args[])
 	{
